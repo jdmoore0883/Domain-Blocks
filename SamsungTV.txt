@@ -24,3 +24,7 @@ noticecdn.samsungcloudsolution.com
 noticefile.samsungcloudsolution.com
 vdterms.samsungcloudsolution.com
 acr0.samsungcloudsolution.com
+log-ingestion.samsungacr.com
+log-ingestion-eu.samsungacr.com
+devicelog.samsungcloudsolution.net
+prderrordumpssm.samsungcloudsolution.net
